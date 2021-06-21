@@ -1,0 +1,56 @@
+li:hover {
+
+    /* opacity: 60%; */
+    /* border-style: solid; */
+    /* border-color: #0275d8; */
+    background-color: #0275d8;
+    /* background-color: rgb(105, 160, 223); */
+
+}
+
+
+
+.footer {
+    background-color: #4cb3fd;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+  }
+
+/* Social Media Icons */
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* .fa-github {
+    background: #232d35;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+} */
+
+
+/* .carousel-item{
+
+    height: 5 rem;
+} */
